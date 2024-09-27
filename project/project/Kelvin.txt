@@ -1,0 +1,8 @@
+Username: 
+Kelvin
+Password: 
+h
+Balance: $
+1.00001E7
+Level: 
+Platinum
